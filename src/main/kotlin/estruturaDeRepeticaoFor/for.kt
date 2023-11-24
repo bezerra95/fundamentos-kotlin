@@ -3,15 +3,19 @@ package estruturaDeRepeticaoFor
 fun main(){
     println("Exemplo 1:")
     imprimaStrings("Kotlin é show!")
+    println()
 
     println("Exemplo 2:")
     imprimaDe1a10()
+    println()
 
     println("\nExemplo 3:")
     imprimaDe10a1()
+    println()
 
     println("\nExemplo 4:")
     imprimaParDe2a10()
+    println()
 
     println("\nExemplo 5:")
     imprimaRange(11, 20)
